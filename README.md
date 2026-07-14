@@ -1,6 +1,6 @@
 # DeepSAM
 
-Code and experiments accompanying the article **"DeepSAM"** (Neurocomputing 2026).
+Code and experiments accompanying the article **"DeepSAM - Self-Awareness as a Way to Mitigate Manifestation Shifts in Medical Images"** .
 
 DeepSAM is an unsupervised anomaly detection framework for medical images. It uses a convolutional autoencoder trained only on normal samples and detects anomalies via perceptual loss at inference time.
 
